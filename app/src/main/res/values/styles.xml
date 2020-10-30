@@ -1,0 +1,43 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.App" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/blue</item>
+        <item name="colorPrimaryDark">#005171</item>
+        <item name="colorAccent">@color/blue</item>
+    </style>
+
+    <style name="CustomMediumShapeAppearance">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSizeTopLeft">22dp</item>
+        <item name="cornerSizeBottomLeft">8dp</item>
+        <item name="cornerSizeBottomRight">22dp</item>
+        <item name="cornerSizeTopRight">22dp</item>
+    </style>
+
+    <style name="ChatShapeApperance">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSizeTopLeft">22dp</item>
+        <item name="cornerSizeBottomLeft">22dp</item>
+        <item name="cornerSizeBottomRight">8dp</item>
+        <item name="cornerSizeTopRight">22dp</item>
+    </style>
+
+    <style name="RoundedImageView">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">60dp</item>
+    </style>
+
+    <style name="SplashTheme" parent="Theme.App">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowBackground">@drawable/splash_screen</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+        <item name="android:windowTranslucentStatus">true</item>
+    </style>
+
+    <style name="RoundedImageViewSmall">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style></resources>
