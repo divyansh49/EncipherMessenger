@@ -8,3 +8,6 @@ An Android application which facilitates secure communication between sender and
 3. Commit your changes: `git commit -am 'Add some feature'`
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
+
+## Screenshots
+<img src="https://github.com/divyansh49/EncipherMessenger/blob/master/Screenshots/LoginActivity.jpg" alt="LoginActivity" width="250" height="400">
