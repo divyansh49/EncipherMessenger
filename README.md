@@ -10,7 +10,4 @@ An Android application which facilitates secure communication between sender and
 5. Submit a pull request :D
 
 ## Screenshots
-<img src="https://github.com/divyansh49/EncipherMessenger/blob/master/Screenshots/LoginActivity.jpg" alt="LoginActivity" width="250" height="400">
-<img src="https://github.com/divyansh49/EncipherMessenger/blob/master/Screenshots/VerifyPhoneActivity.jpg" alt="VerifyPhoneActivity" width="250" height="400">
-<img src="https://github.com/divyansh49/EncipherMessenger/blob/master/Screenshots/MainActivity.jpg" alt="MainActivity" width="250" height="400">
-<img src="https://github.com/divyansh49/EncipherMessenger/blob/master/Screenshots/ChatActivity.jpg" alt="ChatActivity" width="250" height="400">
+<img src="https://github.com/divyansh49/EncipherMessenger/blob/master/Screenshots/LoginActivity.jpg" alt="LoginActivity" width="250" height="400"> <img src="https://github.com/divyansh49/EncipherMessenger/blob/master/Screenshots/VerifyPhoneActivity.jpg" alt="VerifyPhoneActivity" width="250" height="400"><img src="https://github.com/divyansh49/EncipherMessenger/blob/master/Screenshots/MainActivity.jpg" alt="MainActivity" width="250" height="400"><img src="https://github.com/divyansh49/EncipherMessenger/blob/master/Screenshots/ChatActivity.jpg" alt="ChatActivity" width="250" height="400">
